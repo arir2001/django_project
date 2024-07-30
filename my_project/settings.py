@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'hello_world',
     'about',
-    '.herokuapp.com'
+    '.herokuapp.com',
 ]
 
 MIDDLEWARE = [
